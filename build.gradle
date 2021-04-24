@@ -1,0 +1,15 @@
+dependencies {
+
+	compileOnly group: "org.osgi", name: "org.osgi.service.component.annotations"
+
+	compileOnly group: "com.liferay.portal", name: "com.liferay.portal.kernel"
+
+	compileOnly group: "javax.servlet", name: "javax.servlet-api"
+
+	compileOnly group: "com.liferay.commerce", name: "com.liferay.commerce.account.api"
+	compileOnly group: "com.liferay.commerce", name: "com.liferay.commerce.api"
+	compileOnly group: "com.liferay.commerce", name: "com.liferay.commerce.product.api"
+	compileOnly group: "com.liferay.commerce", name: "com.liferay.commerce.product.content.api"
+	compileOnly group: "com.liferay.commerce", name: "com.liferay.commerce.product.definitions.web"
+
+}

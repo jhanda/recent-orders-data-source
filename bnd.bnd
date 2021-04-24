@@ -1,0 +1,3 @@
+Bundle-Name: recent-orders-data-source
+Bundle-SymbolicName: com.liferay.commerce.demo.recent.orders.data.source
+Bundle-Version: 1.0.0
